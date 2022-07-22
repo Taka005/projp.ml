@@ -2,16 +2,25 @@
 
 - このサービスはTaka005によって提供されている無料DNSサービスです
 
-- 自由な名前.projp.mlが使用可能です
+- (name).projp.mlが利用可能です
 - マインクラフトサーバー、Webサイト、その他サービスに使用できます
+
+## 例
+
+- 123.456.78.90 => example.projp.ml
+- example.com => example.projp.ml
 
 ## 登録方法
 
 - Discordサーバーまたは、Taka005#1203直接DMで相談してください
+- 登録はDiscordで行うため、Discordのアカウントが必要です
 - ipアドレス又は、ドメインが登録できます
+- 登録情報の削除は、登録と同じ方法で相談してください
+- こちら側の都合で登録が取り消される可能性がありますので、ご了承ください
+- システム上、同じドメインは登録できませんので空きがない場合は他の名前で登録してください
 
 ### サポート
 
 - [Discord](https://taka.ml/support/)
 - [公式サイト](https://taka.ml/)
-- Email support@projp.ml
+- support@projp.ml
