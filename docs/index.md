@@ -3,6 +3,7 @@
 - このサービスはTaka005によって提供されている無料DNSサービスです
 
 - 自由な名前.projp.mlが使用可能です
+- マインクラフトサーバー、Webサイト、その他サービスに使用できます
 
 ## 登録方法
 
@@ -13,3 +14,4 @@
 
 - [Discord](https://taka.ml/support/)
 - [公式サイト](https://taka.ml/)
+- Email support@projp.ml
