@@ -1,13 +1,15 @@
 ## 概要
 
-このサービスはTaka005によって提供されています
-自由な名前.projp.mlが使用可能です
+- このサービスはTaka005によって提供されている無料DNSサービスです
 
-### 登録方法
+- 自由な名前.projp.mlが使用可能です
 
-Discordサーバーまたは、Taka005#1203にDMをしてください
+## 登録方法
+
+- Discordサーバーまたは、Taka005#1203直接DMで相談してください
+- ipアドレス又は、ドメインが登録できます
 
 ### サポート
 
-[Discord](https://taka.ml/support/)
-[公式サイト](https://taka.ml/)
+- [Discord](https://taka.ml/support/)
+- [公式サイト](https://taka.ml/)
